@@ -1,1 +1,4 @@
+EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Panggung_asia.png" group-title="LIVE TV",PANGGUNG ASIA STUDIO 1
+rtmp://sg.castr.io/static/96962050bd8211e98f8e33727935dd4e
